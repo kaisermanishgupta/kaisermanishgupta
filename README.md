@@ -20,11 +20,11 @@
 - 🔭 Currently working as a **Design Engineer** at **C-DAC Bengaluru**
 - 🛰️ Previously a **Project Scientist - 'B'** at **Aeronautical Development Agency (ADA), Ministry of Defence**
 - 📡 Before that, built 4G/5G Billing & Charging systems as a **Project Engineer** at **C-DOT** **(Govt. of India)**
-- 💼 Started my career as an **Applications Development Associate** at **Accenture**
+- 💼 Started my career as an **Associate Software Engineer** at **Accenture**
 - 🧠 Specialized in **Backend Systems, ML/AI Modelling & Web Application Development**
 - 🏆 **2x GATE CS Qualified** | Qualified **CDAC Scientist-B (Cyber Security)** & **Powergrid ET-CS 2025** written exams + interviews
 - 📜 Microsoft Certified: **AZ-900** & **SC-900**
-- 🌱 Interested in Intelligent Systems, Robotics, VR/AR, Neuroscience, Quantum Computing & Blockchain
+- 🌱 Interested in HPC/AI, Intelligent Systems, Cybersecurity, Robotics, VR/AR, Neuroscience, Quantum Computing & Blockchain
 
 ---
 
@@ -72,7 +72,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-**Core Areas:** Data Structures & Algorithms · Machine Learning · Deep Learning · Data Analysis · Data Science · Problem Solving · Web & App Development
+**Core Areas:** Data Structures & Algorithms · C/C++ · Machine Learning · Deep Learning · Data Analysis · Data Science · Problem Solving · Web & App Development
 
 ---
 
@@ -81,6 +81,15 @@
 - **🎬 Movie Collection Prediction (ANN)** — Built an Artificial Neural Network from scratch to predict movie box-office collections, achieving 92% test accuracy using Keras, TensorFlow, NumPy, Pandas & Scikit-Learn.
 - **🏠 Voice Controlled Home Automation System** — IoT-based home automation built with NodeMCU, Blynk and Google Assistant (C/C++, Java, Python).
 - **🎵 Echo — Music Player (Android App)** — A music player app for Android built using XML, Kotlin and Java.
+
+---
+
+## 🏆 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Fundamentals_(AZ--900)-0078D4?style=for-the-badge&logo=microsoft" alt="AZ-900" />
+  <img src="https://img.shields.io/badge/Microsoft_Certified-Security,_Compliance_and_Identity_Fundamentals_(SC--900)-0078D4?style=for-the-badge&logo=microsoft" alt="AI-900" />
+</p>
 
 ---
 
