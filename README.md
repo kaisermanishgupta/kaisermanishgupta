@@ -19,13 +19,12 @@
 
 - 🔭 Currently working as a **Design Engineer** at **C-DAC Bengaluru**
 - 🛰️ Previously a **Project Scientist - 'B'** at **Aeronautical Development Agency (ADA), Ministry of Defence**
-- 📡 Before that, built 4G/5G Billing & Charging systems as a **Project Engineer** at **C-DOT** (Govt. of India)
+- 📡 Before that, built 4G/5G Billing & Charging systems as a **Project Engineer** at **C-DOT** **(Govt. of India)**
 - 💼 Started my career as an **Applications Development Associate** at **Accenture**
 - 🧠 Specialized in **Backend Systems, ML/AI Modelling & Web Application Development**
-- 🏆 **2x GATE CS Qualified** | Qualified CDAC Scientist-B (Cyber Security) & Powergrid ET-CS 2025 written exams + interviews
+- 🏆 **2x GATE CS Qualified** | Qualified **CDAC Scientist-B (Cyber Security)** & **Powergrid ET-CS 2025** written exams + interviews
 - 📜 Microsoft Certified: **AZ-900** & **SC-900**
 - 🌱 Interested in Intelligent Systems, Robotics, VR/AR, Neuroscience, Quantum Computing & Blockchain
-- ⚡ Fun fact: I'll be backdating my project commits here soon — new repos incoming!
 
 ---
 
@@ -36,7 +35,7 @@
 | **C-DAC Bengaluru** | Design Engineer | Aug 2026 – Present |
 | **Aeronautical Development Agency (ADA), MoD** | Project Scientist - 'B' | Apr 2026 – Aug 2026 |
 | **Center for Development of Telematics (C-DOT)** | Project Engineer (4G/5G Billing & Charging) | Jul 2023 – Jun 2024 |
-| **Accenture Solutions Pvt. Ltd.** | Applications Development Associate | Mar 2022 – May 2023 |
+| **Accenture Solutions Pvt. Ltd.** | Associate Software Engineer | Mar 2022 – May 2023 |
 
 ---
 
@@ -77,29 +76,11 @@
 
 ---
 
-### 📌 Featured Projects
+### 📌 Featured Personal Projects
 
 - **🎬 Movie Collection Prediction (ANN)** — Built an Artificial Neural Network from scratch to predict movie box-office collections, achieving 92% test accuracy using Keras, TensorFlow, NumPy, Pandas & Scikit-Learn.
 - **🏠 Voice Controlled Home Automation System** — IoT-based home automation built with NodeMCU, Blynk and Google Assistant (C/C++, Java, Python).
 - **🎵 Echo — Music Player (Android App)** — A music player app for Android built using XML, Kotlin and Java.
-
----
-
-### 📊 GitHub Stats
-
-<!-- Replace kaisermanishgupta below with your actual GitHub username for these to render -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kaisermanishgupta&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaisermanishgupta&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaisermanishgupta&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaisermanishgupta&theme=radical&no-frame=true&row=1&margin-w=15" />
-</p>
 
 ---
 
