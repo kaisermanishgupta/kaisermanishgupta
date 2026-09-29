@@ -32,8 +32,8 @@
 
 | Organization | Role | Duration |
 |---|---|---|
-| **C-DAC Bengaluru** | Design Engineer | Aug 2026 – Present |
-| **Aeronautical Development Agency (ADA), MoD** | Project Scientist - 'B' | Apr 2026 – Aug 2026 |
+| **C-DAC Bengaluru** | Design Engineer (HPC/Compilers/Libraries) | Aug 2026 – Present |
+| **Aeronautical Development Agency (ADA), MoD** | Project Scientist - 'B' (PLM & Customization) | Apr 2026 – Aug 2026 |
 | **Center for Development of Telematics (C-DOT)** | Project Engineer (4G/5G Billing & Charging) | Jul 2023 – Jun 2024 |
 | **Accenture Solutions Pvt. Ltd.** | Associate Software Engineer | Mar 2022 – May 2023 |
 
