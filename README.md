@@ -76,11 +76,13 @@
 
 ---
 
-### 📌 Featured Personal Projects
+### 📌 Featured Projects
 
-- **🎬 Movie Collection Prediction (ANN)** — Built an Artificial Neural Network from scratch to predict movie box-office collections, achieving 92% test accuracy using Keras, TensorFlow, NumPy, Pandas & Scikit-Learn.
-- **🏠 Voice Controlled Home Automation System** — IoT-based home automation built with NodeMCU, Blynk and Google Assistant (C/C++, Java, Python).
-- **🎵 Echo — Music Player (Android App)** — A music player app for Android built using XML, Kotlin and Java.
+- ⚡ HPC / Compiler / Systems Software — Current work and experiments
+- 🧠 Deep Learning Projects — CNN, ANN & Computer Vision projects from B.Tech
+- 🤖 Machine Learning Projects — Predictive modelling and data science projects
+- 🎵 Echo Music Player — Android application with 106K+ downloads
+- 🔌 Arduino & IoT Projects — Embedded systems and home automation
 
 ---
 
