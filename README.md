@@ -81,7 +81,7 @@
 - ⚡ HPC / Compiler / Systems Software — Current work and experiments
 - 🧠 Deep Learning Projects — CNN, ANN & Computer Vision projects from B.Tech
 - 🤖 Machine Learning Projects — Predictive modelling and data science projects
-- 🎵 Echo Music Player — Android application with 106K+ downloads
+- 🎵 Echo Music Player — Android application with 220K+ downloads
 - 🔌 Arduino & IoT Projects — Embedded systems and home automation
 
 ---
